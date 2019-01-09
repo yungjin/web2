@@ -14,7 +14,7 @@ namespace web2.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "호랑이", "커엽ㅇㅇ" };
+            return new string[] { "ㅇㅅㅇ ", " ㅎㅅㅎ " };
         }
 
         // GET api/values/5
