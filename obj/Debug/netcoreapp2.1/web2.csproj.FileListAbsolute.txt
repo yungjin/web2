@@ -1,0 +1,14 @@
+C:\제품페키징\git\web2\bin\Debug\netcoreapp2.1\web2.deps.json
+C:\제품페키징\git\web2\bin\Debug\netcoreapp2.1\web2.runtimeconfig.json
+C:\제품페키징\git\web2\bin\Debug\netcoreapp2.1\web2.runtimeconfig.dev.json
+C:\제품페키징\git\web2\bin\Debug\netcoreapp2.1\web2.dll
+C:\제품페키징\git\web2\bin\Debug\netcoreapp2.1\web2.pdb
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.csprojAssemblyReference.cache
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.csproj.CoreCompileInputs.cache
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.RazorAssemblyInfo.cache
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.RazorAssemblyInfo.cs
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.AssemblyInfoInputs.cache
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.AssemblyInfo.cs
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.RazorTargetAssemblyInfo.cache
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.dll
+C:\제품페키징\git\web2\obj\Debug\netcoreapp2.1\web2.pdb
